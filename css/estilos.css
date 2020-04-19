@@ -1,5 +1,5 @@
 body{
-    background: #4e4f55;
+    background: rgb(219, 219, 219);
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -15,6 +15,7 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    border: 1px solid rgb(185, 185, 185);
 }
 
 #cabecera #tagline{
@@ -45,8 +46,9 @@ body{
 }
 
 #footer{
-    background: rgb(92, 92, 92);
+    background: rgb(20, 105, 185);
     color: white;
     text-align: center;
     padding: 0.5em;
+    box-shadow: 1px 2px 2px black;
 }
