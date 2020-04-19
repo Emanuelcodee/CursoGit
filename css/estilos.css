@@ -52,3 +52,15 @@ body{
     padding: 0.5em;
     box-shadow: 1px 2px 2px black;
 }
+
+#footer {
+    background: rgb(92, 92, 92);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+
+#post{
+    background: white;
+    padding: 1em;
+}
